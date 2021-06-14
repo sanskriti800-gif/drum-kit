@@ -1,0 +1,113 @@
+.set{
+    outline:none;
+    border: 10px solid #404B69;
+    font-size: 500 rem;
+    font-family:cursive;
+    line-height: 2;
+    font-weight: 1000;
+    color: #DAD463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 1000px;
+    height: 320px;
+    text-align: center;
+    margin: 10px;
+    position: relative;
+    left:240px;
+    top:60px;
+}
+.w{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum1.jpg');
+    text-shadow: 3px 0 #ffff;
+    
+    
+}
+.a{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum2.jpg');
+    text-shadow: 3px 0 #ffff;
+   
+} 
+.s{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum3.jpg');
+    text-shadow: 3px 0 #ffff;
+ 
+}
+.d{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum4.jpg');
+    text-shadow: 3px 0 #ffff;
+   
+    
+}
+.j{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum5.jpg');
+    text-shadow: 3px 0 #ffff;
+    
+}
+.k{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum6.jpg');
+    text-shadow: 3px 0 #ffff;
+    
+}
+.l{
+    width:200px;
+    height:150px;
+    background-color: burlywood;
+    font-size: 30px;
+    background-image: url('images/drum7.jpg');
+    text-shadow: 3px 0 #ffff;
+    
+}
+footer{
+    font-size: 20px;
+    color:#404B69;
+    position: absolute;
+    bottom:10px;
+    right:700px;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    color:#404B69;
+    text-shadow: 3px 0 #ffff;
+    
+}
+body{
+    background-color: bisque;
+    
+}
+button:hover{
+    color: cornsilk;
+}
+button{
+    padding:10px 10px
+}
+ .pressed{
+    opacity: 0.5;
+} 
